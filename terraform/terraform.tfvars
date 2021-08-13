@@ -1,6 +1,6 @@
 environment_tag             = "automation-day"
-azure-rg-1                  = "rg-automationday-infra"
-azure-rg-2                  = "rg-automationday-sec"
+azure-rg-1                  = "rg-automationday1-infra"
+azure-rg-2                  = "rg-automationday1-sec"
 loc1                        = "uk south"
 region1-vnet1-name          = "region1-vnet1-hub1"
 region1-vnet2-name          = "region1-vnet1-spoke1"
